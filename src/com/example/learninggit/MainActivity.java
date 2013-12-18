@@ -14,6 +14,8 @@ public class MainActivity extends Activity {
 		
 		Toast.makeText(getApplicationContext(), "Hello android", 1000).show();
 		
+		System.out.println("hello android");
+		
 	}
 	
 
